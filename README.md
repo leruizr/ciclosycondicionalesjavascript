@@ -1,4 +1,7 @@
 # ciclosycondicionalesjavascript
+
+el taller se encuentra en la rama master
+
 Taller practico javascript ciclos y condicionales
 
 Enunciado principal: Desarrollar un menú de opciones que permita seleccionar un ejercicio de un 
