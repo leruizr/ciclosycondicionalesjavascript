@@ -1,6 +1,5 @@
 # ciclosycondicionalesjavascript
 
-el taller se encuentra en la rama master
 
 Taller practico javascript ciclos y condicionales
 
